@@ -56,7 +56,7 @@ version="1.0.0">
 
 
 
-
+  <splash src="splash.png" />
 
   <platform name="android">
     <icon src="res/icon/android/drawable-ldpi-icon.png" density="ldpi"/>
