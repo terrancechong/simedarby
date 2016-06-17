@@ -18,6 +18,9 @@ limitations under the License.
  
 <resources xmlns:android="http://schemas.android.com/apk/res/android"> 
 
+<style name="Theme.Calculator" parent="@android:style/Theme.Holo.NoActionBar">
+    <!-- -->
+</style>
  
 <style name="CalculatorTheme" parent="@android:style/Theme.Material.Light.NoActionBar"> 
 <item name="android:colorPrimary">@color/calculator_accent_color</item> 
