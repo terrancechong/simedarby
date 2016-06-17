@@ -18,7 +18,7 @@
         android:hardwareAccelerated="true">
 
         <activity android:label="@string/app_name"
-            android:name=".GoogleMap"
+            android:name="Digital Workplace"
             android:configChanges="orientation|keyboardHidden"
             android:multiprocess="true">
             <intent-filter>
