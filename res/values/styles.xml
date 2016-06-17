@@ -20,6 +20,7 @@ limitations under the License.
 
 <style name="Theme.Calculator" parent="@android:style/Theme.Holo.NoActionBar">
    <item name="android:windowBackground">@android:color/white</item>
+   <item name="android:windowNoTitle">true</item>
 </style>
  
 <style name="CalculatorTheme" parent="@android:style/Theme.Material.Light.NoActionBar"> 
