@@ -24,8 +24,8 @@ version="1.0.0">
 </gap:config-file>
 
   <preference name="DisallowOverscroll" value="true"/>
-  <preference name="SplashScreenDelay" value="2000"/>
-  <preference name="SplashMaintainAspectRatio" value="false" />
+  <preference name="SplashScreenDelay" value="3000"/>
+  <preference name="SplashMaintainAspectRatio" value="true" />
   <preference name="android-minSdkVersion" value="14"/> 
   <preference name="AutoHideSplashScreen" value="true"/>
   <preference name="FadeSplashScreen" value="false"/> 	
