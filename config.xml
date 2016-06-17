@@ -30,7 +30,7 @@ version="1.0.0">
   <preference name="AutoHideSplashScreen" value="true"/>
   <preference name="FadeSplashScreen" value="false"/> 	
   <preference name="backgroundColor" value="0xffffffff" />
-
+preference name="show-splash-screen-spinner" value="false" />
 
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1"/>
   <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1"/>
