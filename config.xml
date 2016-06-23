@@ -15,9 +15,9 @@ version="1.0.0">
 <gap:config-file platform="android" parent="/manifest">
 
        <supports-screens 
-              android:xlargeScreens="false" 
-              android:largeScreens="false" 
-              android:smallScreens="false" />
+              android:xlargeScreens="true" 
+              android:largeScreens="true" 
+              android:smallScreens="true" />
         <application android:theme="@android:style/Theme.NoTitleBar" >
             <activity android:theme="@android:style/Theme.NoTitleBar.Fullscreen" ></activity>
         </application>
